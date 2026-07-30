@@ -28,6 +28,12 @@ Practicar los fundamentos de Java mediante un programa que solicita dos numeros,
 - Números decimales con `double`
 - Conversión de tipos mediante casting
 - Validación de datos
+- Ciclo `while`
+- Ciclo `do-while`
+- Uso de `continue`
+- Operador de desigualdad `!=`
+- Operador lógico AND `&&`
+- Repetición y validación de opciones
 ## Ejemplo de uso
 ```text
 ===CALCULADORA===
